@@ -3,8 +3,11 @@ Ref: https://railsbox.io/
 
 ##Requirements
 ```brew install caskroom/cask/brew-cask
+
 brew cask install virtualbox
+
 brew cask install vagrant
+
 brew install ansible```
 
 
@@ -19,7 +22,8 @@ Your project structure must be like:
     development/
       Vagrantfile
   Gemfile
-  ...```
+  ...
+ ```
 
 ##How to start
 
